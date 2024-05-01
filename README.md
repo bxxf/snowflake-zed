@@ -1,8 +1,7 @@
 # Snowflake theme for Zed
 
-Modern and clean theme in the colors of a winter for the Zed code editor.
-
-This is a theme for the [Zed code editor](https://zed.dev/). It is inspired by the snowflake theme for the Vscode with few visual updates.
+Modern and clean theme in winter colors for the Zed code editor.
+This is a theme for the [Zed code editor](https://zed.dev/). It is inspired by the Snowflake Theme for the VsCode with few visual updates.
 
 ## Screenshot
 
