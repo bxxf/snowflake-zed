@@ -1,6 +1,6 @@
 id = "snowflake"
 name = "Snowflake Theme"
-version = "0.0.1"
+version = "1.0.0"
 schema_version = 1
 authors = ["Filip Brebera <breberaf@gmail.com>"]
 description = "Clean modern theme in shades of light blue and white."
